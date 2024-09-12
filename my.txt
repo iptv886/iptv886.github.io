@@ -14,7 +14,7 @@ CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/ind
 CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV52,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 CCTV中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
-CCTV资讯,http://183.234.238.18:8926/live1128.m3u8
+CCTV资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
