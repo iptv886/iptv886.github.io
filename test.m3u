@@ -75,8 +75,6 @@ http://xbbhome.top:8888/udp/239.93.0.162:2192
 http://xbbhome.top:8888/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-name="凤凰卫视24" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视24.png",凤凰卫视24
 http://xeace.cn:8888/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰深圳旁边25" tvg-logo="https://live.fanmingming.com/tv/凤凰深圳旁边25.png",凤凰深圳旁边25
-http://13457610200.8866.org:2018/live/凤凰深圳旁边/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文26" tvg-logo="https://live.fanmingming.com/tv/凤凰中文26.png",凤凰中文26
 http://dms.yryyj.site:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
