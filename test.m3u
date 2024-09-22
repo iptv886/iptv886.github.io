@@ -27,56 +27,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png",中天新闻台
 https://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 tvg-name="凤凰中文1" tvg-logo="https://live.fanmingming.com/tv/凤凰中文1.png",凤凰中文1
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视2" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视2.png",凤凰卫视2
-http://122.224.232.218:8888/rtp/233.50.200.191:5140
-#EXTINF:-1 tvg-name="凤凰卫视3" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视3.png",凤凰卫视3
-http://122.224.232.226:8888/rtp/233.50.200.191:5140
-#EXTINF:-1 tvg-name="凤凰卫视4" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视4.png",凤凰卫视4
-http://211.72.65.236:8577/.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视5" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视5.png",凤凰卫视5
-http://home.suerwei.net:64444/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰卫视6" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视6.png",凤凰卫视6
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视7" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视7.png",凤凰卫视7
-http://ayolee.com:5253/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰卫视8" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视8.png",凤凰卫视8
-http://ayolee.com:5253/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰资讯9" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯9.png",凤凰资讯9
-http://118.112.148.228:4022/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰卫视10" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视10.png",凤凰卫视10
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视11" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视11.png",凤凰卫视11
-http://146.56.153.245:20121/bysid/258
-#EXTINF:-1 tvg-name="凤凰卫视12" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视12.png",凤凰卫视12
-http://codomo.eu.org:4022/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰卫视13" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视13.png",凤凰卫视13
-http://codomo.eu.org:4022/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰卫视14" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视14.png",凤凰卫视14
-http://nas.jumping.wang:5555/rtp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰卫视15" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视15.png",凤凰卫视15
-http://nas.jumping.wang:5555/rtp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰卫视16" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视16.png",凤凰卫视16
-http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-#EXTINF:-1 tvg-name="凤凰卫视17" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视17.png",凤凰卫视17
-http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc&
-#EXTINF:-1 tvg-name="凤凰卫视18" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视18.png",凤凰卫视18
-http://wouu.net:9977/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰卫视19" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视19.png",凤凰卫视19
-http://www.91dos.cn:4022/udp/239.61.2.184:9092
-#EXTINF:-1 tvg-name="凤凰卫视20" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视20.png",凤凰卫视20
-http://www.91dos.cn:4022/udp/239.61.5.48:1025
-#EXTINF:-1 tvg-name="凤凰卫视21" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视21.png",凤凰卫视21
-http://www.yao87.com:4022/udp/239.76.253.135:9000
-#EXTINF:-1 tvg-name="凤凰卫视22" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视22.png",凤凰卫视22
-http://xbbhome.top:8888/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰卫视23" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视23.png",凤凰卫视23
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
 http://xbbhome.top:8888/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰卫视24" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视24.png",凤凰卫视24
-http://xeace.cn:8888/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文26" tvg-logo="https://live.fanmingming.com/tv/凤凰中文26.png",凤凰中文26
-http://dms.yryyj.site:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
