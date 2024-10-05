@@ -31,6 +31,17 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv009
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="民视HD" tvg-logo="https://live.fanmingming.com/tv/民视HD.png",民视HD
+https://litv.zapi.us.kg/?id=4gtv-4gtv002
+#EXTINF:-1 tvg-name="台视新闻HD" tvg-logo="https://live.fanmingming.com/tv/台视新闻HD.png",台视新闻HD
+https://litv.zapi.us.kg/?id=4gtv-4gtv051
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png",华视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv052
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png",TVBS
+https://litv.zapi.us.kg/?id=4gtv-4gtv073
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png",中视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
