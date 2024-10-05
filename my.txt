@@ -1,101 +1,25 @@
 Tea House,#genre#
-001,https://litv.zapi.us.kg/?id=4gtv-4gtv001
-002,https://litv.zapi.us.kg/?id=4gtv-4gtv002
-003,https://litv.zapi.us.kg/?id=4gtv-4gtv003
-004,https://litv.zapi.us.kg/?id=4gtv-4gtv004
-005,https://litv.zapi.us.kg/?id=4gtv-4gtv005
-006,https://litv.zapi.us.kg/?id=4gtv-4gtv006
-007,https://litv.zapi.us.kg/?id=4gtv-4gtv007
-008,https://litv.zapi.us.kg/?id=4gtv-4gtv008
-009,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-010,https://litv.zapi.us.kg/?id=4gtv-4gtv010
-011,https://litv.zapi.us.kg/?id=4gtv-4gtv011
-012,https://litv.zapi.us.kg/?id=4gtv-4gtv012
-013,https://litv.zapi.us.kg/?id=4gtv-4gtv013
-014,https://litv.zapi.us.kg/?id=4gtv-4gtv014
-015,https://litv.zapi.us.kg/?id=4gtv-4gtv015
-016,https://litv.zapi.us.kg/?id=4gtv-4gtv016
-017,https://litv.zapi.us.kg/?id=4gtv-4gtv017
-018,https://litv.zapi.us.kg/?id=4gtv-4gtv018
-019,https://litv.zapi.us.kg/?id=4gtv-4gtv019
-020,https://litv.zapi.us.kg/?id=4gtv-4gtv020
-021,https://litv.zapi.us.kg/?id=4gtv-4gtv021
-022,https://litv.zapi.us.kg/?id=4gtv-4gtv022
-023,https://litv.zapi.us.kg/?id=4gtv-4gtv023
-024,https://litv.zapi.us.kg/?id=4gtv-4gtv024
-025,https://litv.zapi.us.kg/?id=4gtv-4gtv025
-026,https://litv.zapi.us.kg/?id=4gtv-4gtv026
-027,https://litv.zapi.us.kg/?id=4gtv-4gtv027
-028,https://litv.zapi.us.kg/?id=4gtv-4gtv028
-029,https://litv.zapi.us.kg/?id=4gtv-4gtv029
-030,https://litv.zapi.us.kg/?id=4gtv-4gtv030
-031,https://litv.zapi.us.kg/?id=4gtv-4gtv031
-032,https://litv.zapi.us.kg/?id=4gtv-4gtv032
-033,https://litv.zapi.us.kg/?id=4gtv-4gtv033
-034,https://litv.zapi.us.kg/?id=4gtv-4gtv034
-035,https://litv.zapi.us.kg/?id=4gtv-4gtv035
-036,https://litv.zapi.us.kg/?id=4gtv-4gtv036
-037,https://litv.zapi.us.kg/?id=4gtv-4gtv037
-038,https://litv.zapi.us.kg/?id=4gtv-4gtv038
-039,https://litv.zapi.us.kg/?id=4gtv-4gtv039
-040,https://litv.zapi.us.kg/?id=4gtv-4gtv040
-041,https://litv.zapi.us.kg/?id=4gtv-4gtv041
-042,https://litv.zapi.us.kg/?id=4gtv-4gtv042
-043,https://litv.zapi.us.kg/?id=4gtv-4gtv043
-044,https://litv.zapi.us.kg/?id=4gtv-4gtv044
-045,https://litv.zapi.us.kg/?id=4gtv-4gtv045
-046,https://litv.zapi.us.kg/?id=4gtv-4gtv046
-047,https://litv.zapi.us.kg/?id=4gtv-4gtv047
-048,https://litv.zapi.us.kg/?id=4gtv-4gtv048
-049,https://litv.zapi.us.kg/?id=4gtv-4gtv049
-050,https://litv.zapi.us.kg/?id=4gtv-4gtv050
-051,https://litv.zapi.us.kg/?id=4gtv-4gtv051
-052,https://litv.zapi.us.kg/?id=4gtv-4gtv052
-053,https://litv.zapi.us.kg/?id=4gtv-4gtv053
-054,https://litv.zapi.us.kg/?id=4gtv-4gtv054
-055,https://litv.zapi.us.kg/?id=4gtv-4gtv055
-056,https://litv.zapi.us.kg/?id=4gtv-4gtv056
-057,https://litv.zapi.us.kg/?id=4gtv-4gtv057
-058,https://litv.zapi.us.kg/?id=4gtv-4gtv058
-059,https://litv.zapi.us.kg/?id=4gtv-4gtv059
-060,https://litv.zapi.us.kg/?id=4gtv-4gtv060
-061,https://litv.zapi.us.kg/?id=4gtv-4gtv061
-062,https://litv.zapi.us.kg/?id=4gtv-4gtv062
-063,https://litv.zapi.us.kg/?id=4gtv-4gtv063
-064,https://litv.zapi.us.kg/?id=4gtv-4gtv064
-065,https://litv.zapi.us.kg/?id=4gtv-4gtv065
-066,https://litv.zapi.us.kg/?id=4gtv-4gtv066
-067,https://litv.zapi.us.kg/?id=4gtv-4gtv067
-068,https://litv.zapi.us.kg/?id=4gtv-4gtv068
-069,https://litv.zapi.us.kg/?id=4gtv-4gtv069
-070,https://litv.zapi.us.kg/?id=4gtv-4gtv070
-071,https://litv.zapi.us.kg/?id=4gtv-4gtv071
-072,https://litv.zapi.us.kg/?id=4gtv-4gtv072
-073,https://litv.zapi.us.kg/?id=4gtv-4gtv073
-074,https://litv.zapi.us.kg/?id=4gtv-4gtv074
-075,https://litv.zapi.us.kg/?id=4gtv-4gtv075
-076,https://litv.zapi.us.kg/?id=4gtv-4gtv076
-077,https://litv.zapi.us.kg/?id=4gtv-4gtv077
-078,https://litv.zapi.us.kg/?id=4gtv-4gtv078
-079,https://litv.zapi.us.kg/?id=4gtv-4gtv079
-080,https://litv.zapi.us.kg/?id=4gtv-4gtv080
-081,https://litv.zapi.us.kg/?id=4gtv-4gtv081
-082,https://litv.zapi.us.kg/?id=4gtv-4gtv082
-083,https://litv.zapi.us.kg/?id=4gtv-4gtv083
-084,https://litv.zapi.us.kg/?id=4gtv-4gtv084
-085,https://litv.zapi.us.kg/?id=4gtv-4gtv085
-086,https://litv.zapi.us.kg/?id=4gtv-4gtv086
-087,https://litv.zapi.us.kg/?id=4gtv-4gtv087
-088,https://litv.zapi.us.kg/?id=4gtv-4gtv088
-089,https://litv.zapi.us.kg/?id=4gtv-4gtv089
-090,https://litv.zapi.us.kg/?id=4gtv-4gtv090
-091,https://litv.zapi.us.kg/?id=4gtv-4gtv091
-092,https://litv.zapi.us.kg/?id=4gtv-4gtv092
-093,https://litv.zapi.us.kg/?id=4gtv-4gtv093
-094,https://litv.zapi.us.kg/?id=4gtv-4gtv094
-095,https://litv.zapi.us.kg/?id=4gtv-4gtv095
-096,https://litv.zapi.us.kg/?id=4gtv-4gtv096
-097,https://litv.zapi.us.kg/?id=4gtv-4gtv097
-098,https://litv.zapi.us.kg/?id=4gtv-4gtv098
-099,https://litv.zapi.us.kg/?id=4gtv-4gtv099
-100,https://litv.zapi.us.kg/?id=4gtv-4gtv100
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+民视HD,https://litv.zapi.us.kg/?id=4gtv-4gtv002
+台视新闻HD,https://litv.zapi.us.kg/?id=4gtv-4gtv051
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
+TVBS,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
