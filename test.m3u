@@ -1,7 +1,18 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1
 http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV2
+http://183.128.99.80:4022/udp/233.50.200.100:5140
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3
+http://125.92.113.121:6066/udp/239.77.0.169:5146
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV4
+http://125.92.113.121:6066/udp/239.77.0.78:5146
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
+http://183.128.99.80:4022/udp/233.50.200.108:5140
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png",CCTV16
+http://183.128.99.80:4022/udp/233.50.200.112:5140
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png",CCTV13
+http://113.65.7.94:8888/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png",中天新闻台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png",TVBS
@@ -10,11 +21,3 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
