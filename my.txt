@@ -1,20 +1,38 @@
 Tea House,#genre#
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-中天新闻台,https://stream1.freetv.fun/zhong-tian-xin-wen-1.m3u
-凤凰中文,http://xeace.cn:8888/udp/239.93.0.162:2192
-凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+鳳凰衛視FHD,https://stream1.freetv.fun/feng-huang-wei-shi-8.ctv
+鳳凰衛視FHD,https://stream1.freetv.fun/feng-huang-wei-shi-3.ctv
+鳳凰衛視FHD[geo-blocked],https://stream1.freetv.fun/feng-huang-wei-shi-4.m3u8
+鳳凰衛視FHD,https://stream1.freetv.fun/feng-huang-wei-shi-10.m3u8
+鳳凰衛視FHD,https://stream1.freetv.fun/feng-huang-wei-shi-xiang-gang-1.ctv
+鳳凰衛視FHD,https://stream1.freetv.fun/feng-huang-wei-shi-9.ctv
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-wei-shi-11.ctv
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-wei-shi-7.ctv
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-zhong-wen-14.ctv
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/feng-huang-wei-shi-2.ctv
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
+鳳凰衛視中文,https://stream1.freetv.fun/feng-huang-zhong-wen-13.ctv
+鳳凰衛視中文,https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+鳳凰衛視中文[geo-blocked],https://stream1.freetv.fun/feng-huang-wei-shi-1.ctv
+鳳凰香港[geo-blocked],https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8
+鳳凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-9.ctv
+鳳凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-4.ctv
+鳳凰香港[geo-blocked],https://stream1.freetv.fun/feng-huang-xiang-gang-5.m3u8
+鳳凰香港[geo-blocked],https://stream1.freetv.fun/feng-huang-xiang-gang-12.ctv
+[HD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-7.ctv
+[HD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
+[BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
+[BD]凤凰资讯[geo-blocked],https://stream1.freetv.fun/feng-huang-zi-xun-23.m3u8
+[HD]凤凰资讯[geo-blocked],https://stream1.freetv.fun/feng-huang-zi-xun-20.m3u8
+[BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
+[BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.m3u8
+[BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
+[BD]凤凰资讯[geo-blocked],https://stream1.freetv.fun/feng-huang-zi-xun-18.m3u8
+[SD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+[BD]中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
+[HD]中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-2.ctv
+[BD]中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
