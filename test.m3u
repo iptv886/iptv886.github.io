@@ -27,6 +27,8 @@ http://59.61.185.76:8848/rtp/239.61.2.23:8132
 http://59.61.185.76:8848/rtp/239.61.2.184:9092
 #EXTINF:-1 tvg-name="凤凰资讯台台" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯台台.png",凤凰资讯台台
 http://59.61.185.76:8848/rtp/239.61.2.183:9086
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png",中天新闻台
+https://stream1.freetv.fun/zhong-tian-xin-wen-1.ctv
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
 http://59.61.185.76:8848/rtp/239.61.2.28:8162
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png",湖南卫视
