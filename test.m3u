@@ -23,9 +23,9 @@ http://59.61.185.76:8848/rtp/239.61.2.172:9020
 http://59.61.185.76:8848/rtp/239.61.2.176:9044
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png",CCTV-13
 http://59.61.185.76:8848/rtp/239.61.2.23:8132
-#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文台.png",凤凰中文台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
 http://59.61.185.76:8848/rtp/239.61.2.184:9092
-#EXTINF:-1 tvg-name="凤凰资讯台台" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯台台.png",凤凰资讯台台
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
 http://59.61.185.76:8848/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png",中天新闻台
 https://stream1.freetv.fun/zhong-tian-xin-wen-1.ctv
