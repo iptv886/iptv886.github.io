@@ -27,7 +27,7 @@ http://113.219.54.217:8887/udp/239.76.253.160:9000
 http://113.219.54.217:8887/udp/239.76.253.93:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
 http://113.219.54.217:8887/udp/239.76.253.135:9000
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文备份
+#EXTINF:-1 tvg-name="凤凰中文备份" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文备份
 http://113.219.54.217:8887/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
 http://113.219.54.217:8887/udp/239.76.253.134:9000
