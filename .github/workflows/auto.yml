@@ -1,37 +1,40 @@
-name: IPTV云端自动更新（优化）
+name: IPTV云端自动更新（全端口扫描版）
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 每6小时
+    - cron: "0 */4 * * *"   # 每4小时自动运行一次
   workflow_dispatch:
 
-concurrency: iptv-update
-
 jobs:
-  scan:
+  scan_and_update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10     # 给任务设置10分钟超时，防止卡死
     steps:
       - uses: actions/checkout@v4
 
-      - name: 获取当前端口
-        id: old_port
-        run: echo "OLD=$(grep -oP '171\.213\.158\.140:\K\d+' test.m3u || true)" >> $GITHUB_ENV
-
-      - name: 扫描新端口
-        id: new_port
+      - name: 安装扫描工具
         run: |
-          NEW=$(nmap -sU -p 1-9999 --open --host-timeout 30s 171.213.158.140 -oG - | awk '/Host:/{for(i=1;i<=NF;i++) if($i~"/open/"){split($i,a,"/"); print a[1]; exit}}')
-          if [ -z "$NEW" ]; then
-            echo "未发现开放端口"
+          sudo apt-get update
+          sudo apt-get install -y nmap
+
+      - name: 扫描171.213.158.140开放端口
+        id: scan
+        run: |
+          IP="171.213.158.140"
+          NEW_PORT=$(nmap -sU -p1-9999 --open --host-timeout 5s $IP -oG - | awk '/Host:/{for(i=1;i<=NF;i++) if($i~"/open/"){split($i,a,"/"); print a[1]; exit}}')
+          if [ -z "$NEW_PORT" ]; then
+            echo "No open port found, skip update"
             exit 0
           fi
-          echo "NEW=$NEW" >> $GITHUB_ENV
+          echo "NEW_PORT=$NEW_PORT" >> $GITHUB_ENV
 
-      - name: 更新并推送
-        if: env.NEW != env.OLD
+      - name: 更新test.m3u端口
         run: |
-          sed -i "s|171.213.158.140:[0-9]*|171.213.158.140:${{ env.NEW }}|g" test.m3u
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          sed -i "s|171.213.158.140:[0-9]*|171.213.158.140:${{ env.NEW_PORT }}|g" test.m3u
+
+      - name: 提交更新
+        run: |
+          git config --global user.name ${{ github.actor }}
+          git config --global user.email ${{ github.actor }}@users.noreply.github.com
           git add test.m3u
-          git commit -m "auto update port to ${{ env.NEW }}" || true
+          git commit -m "auto update port to ${{ env.NEW_PORT }}" || true
           git push
