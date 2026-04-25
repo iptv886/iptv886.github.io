@@ -1,0 +1,32 @@
+name: IPTV云端自动更新
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 探测171.213.158.140可用端口
+        run: |
+          IP="171.213.158.140"
+          NEW_PORT=""
+          for p in {9999..1};do
+            timeout 0.04 bash -c "</dev/udp/$IP/$p" && NEW_PORT=$p && break
+          done
+          echo "PORT=$NEW_PORT" >> $GITHUB_ENV
+
+      - name: 更新test.m3u端口
+        run: |
+          sed -i "s|171.213.158.140:[0-9]*|171.213.158.140:${{ env.PORT }}|g" test.m3u
+
+      - name: 提交更新
+        run: |
+          git config --global user.name ${{ github.actor }}
+          git config --global user.email ${{ github.actor }}@users.noreply.github.com
+          git add .
+          git commit -m "auto update port to ${{ env.PORT }}" || true
+          git push
