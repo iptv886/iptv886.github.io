@@ -14,12 +14,16 @@ jobs:
         run: |
           IP="171.213.158.140"
           NEW_PORT=""
-          for p in {9999..1};do
-            timeout 0.04 bash -c "</dev/udp/$IP/$p" && NEW_PORT=$p && break
+          for p in {1..9999};do
+            timeout 0.1 nc -z -u $IP $p && NEW_PORT=$p && break
           done
+          if [ -z "$NEW_PORT" ]; then
+            echo "No port found, skip update"
+            exit 0
+          fi
           echo "PORT=$NEW_PORT" >> $GITHUB_ENV
 
-      - name: 更新test.m3u端口
+      - name: 更新test.m3u文件
         run: |
           sed -i "s|171.213.158.140:[0-9]*|171.213.158.140:${{ env.PORT }}|g" test.m3u
 
