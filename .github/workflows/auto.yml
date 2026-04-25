@@ -1,37 +1,45 @@
-name: IPTV云端自动更新（全端口扫描版）
+name: IPTV云端自动更新（终极修复版）
 on:
   schedule:
-    - cron: "0 */4 * * *"   # 每4小时自动运行一次
+    - cron: "0 */4 * * *"   # 每4小时运行一次
   workflow_dispatch:
 
 jobs:
   scan_and_update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10     # 给任务设置10分钟超时，防止卡死
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
-      - name: 安装扫描工具
+      - name: 安装nmap
         run: |
           sudo apt-get update
           sudo apt-get install -y nmap
 
-      - name: 扫描171.213.158.140开放端口
+      - name: 读取当前端口（更安全的方式）
+        id: read_old_port
+        run: |
+          OLD=$(grep -oE '171\.213\.158\.140:[0-9]+' test.m3u | head -1 | cut -d: -f2)
+          echo "OLD_PORT=$OLD" >> $GITHUB_ENV
+
+      - name: 扫描开放端口
         id: scan
         run: |
           IP="171.213.158.140"
-          NEW_PORT=$(nmap -sU -p1-9999 --open --host-timeout 5s $IP -oG - | awk '/Host:/{for(i=1;i<=NF;i++) if($i~"/open/"){split($i,a,"/"); print a[1]; exit}}')
-          if [ -z "$NEW_PORT" ]; then
-            echo "No open port found, skip update"
+          NEW=$(nmap -sU -p1-9999 --open --host-timeout 5s $IP -oG - | awk '/Host:/{for(i=1;i<=NF;i++) if($i~"/open/"){split($i,a,"/"); print a[1]; exit}}')
+          if [ -z "$NEW" ]; then
+            echo "未发现新端口，不更新文件"
             exit 0
           fi
-          echo "NEW_PORT=$NEW_PORT" >> $GITHUB_ENV
+          echo "NEW_PORT=$NEW" >> $GITHUB_ENV
 
-      - name: 更新test.m3u端口
+      - name: 仅在端口变化时更新文件（更安全的匹配）
+        if: env.NEW_PORT != env.OLD_PORT
         run: |
-          sed -i "s|171.213.158.140:[0-9]*|171.213.158.140:${{ env.NEW_PORT }}|g" test.m3u
+          sed -i "s/\(171\.213\.158\.140:\)[0-9]\+/\1${{ env.NEW_PORT }}/g" test.m3u
 
       - name: 提交更新
+        if: env.NEW_PORT != env.OLD_PORT
         run: |
           git config --global user.name ${{ github.actor }}
           git config --global user.email ${{ github.actor }}@users.noreply.github.com
